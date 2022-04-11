@@ -9,9 +9,6 @@
 
 <body>
     <h1>Olá Mundo, tentando fazer com que o deploy do Heroku funcione...</h1>
-
-    <?php
-        echo "Olá, meu nome é Guylherme!";
-    ?>
+    <p>teste de Heroku</p>
 </body>
 </html>
